@@ -1,0 +1,8 @@
+
+.dark-mode {
+  background-color: #2b020c;
+  /* background-color: #171c28; */
+  /*background: url(./assets/images/screen.jpg) no-repeat center center fixed;*/
+  color: white;
+  transition: "0.1s";
+}
